@@ -34,7 +34,7 @@
  * @return <void>
  */
 
-unsigned char print_statistics(unsigned char *array);
+unsigned char print_statistics(unsigned char *array, unsigned int size);
 
 /**
  * @brief <Prints input array>
